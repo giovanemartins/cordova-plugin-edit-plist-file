@@ -53,12 +53,12 @@
         <source-file src="src/ios/FloatingWebview.h" />
         <source-file src="src/ios/FloatingWebview.m" />
         
-        <config-file parent="com.giovanemartins.CABAPP" target="*/Entitlements-Debug.plist">
+        <config-file parent="com.apple.developer.floatingwebview" target="*/Entitlements-Debug.plist">
             <array>
                 <string>Default</string>
             </array>
         </config-file>
-        <config-file parent="com.giovanemartins.CABAPP" target="*/Entitlements-Release.plist">
+        <config-file parent="com.apple.developer.floatingwebview" target="*/Entitlements-Release.plist">
             <array>
                 <string>Default</string>
             </array>
