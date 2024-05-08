@@ -1,6 +1,6 @@
 {
     "name": "cordova-plugin-edit-plist-file",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Plugin allowing to edit *-info.plist file",
     "author": "Giovane Martins <giovane.martins.jw@gmail.com>",
     "cordova": {
