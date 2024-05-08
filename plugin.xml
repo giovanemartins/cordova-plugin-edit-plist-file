@@ -56,8 +56,5 @@
         <config-file parent="com.apple.developer.floatingwebview" target="*-Info.plist">
              <true/>
         </config-file>
-        <config-file parent="com.apple.developer.floatingwebview" target="*-Info.plist">
-            <true/>
-        </config-file>
     </platform>
 </plugin>
