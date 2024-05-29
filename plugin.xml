@@ -16,7 +16,7 @@
 
     <author>Giovane Martins - giovane.martins.jw@gmail.com </author>
 
-    <keywords>cordova,whitelist,ios9,ecosystem:cordova,cordova-ios</keywords>
+    <keywords>cordova,whitelist,ios9,ecosystem:cordova,cordova-ios,splitview,multitasking,slideover,pip</keywords>
     
     <license>MIT</license>
     
@@ -28,7 +28,7 @@
 
     <!-- ios -->
     <platform name="ios">
-        
+        <preference name="Orientation" value="all" />
         <!-- iOS9 whitelisting -->
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
